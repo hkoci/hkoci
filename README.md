@@ -4,7 +4,7 @@ I'm Henri, a final year Computer Science undergraduate interested in full-stack 
 
 ### Pinned Projects 📌
 
-[![Fitify](https://github-readme-stats.vercel.app/api/pin/?username=hkoci&repo=Fitify)](https://github.com/hkoci/Fitify)[![BlockchainIOT](https://github-readme-stats.vercel.app/api/pin/?username=hkoci&repo=BlockchainIOT)](https://github.com/hkoci/BlockchainIOT)
+[![Fitify](https://github-readme-stats.vercel.app/api/pin/?username=hkoci&repo=Fitify)](https://github.com/hkoci/Fitify)  [![BlockchainIOT](https://github-readme-stats.vercel.app/api/pin/?username=hkoci&repo=BlockchainIOT)](https://github.com/hkoci/BlockchainIOT)
 
 ### Stats 📈
 
